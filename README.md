@@ -21,12 +21,29 @@
 - Day2.ipynb – Feature encoding and preprocessing
 - Day3.ipynb - Classifier Arena
 - Day4.ipynb - Tree-Based Models + k-NN + Feature Selection
+- Day5.ipynb - 3-Feature Showdown
+- Main Challenge - Medical cost regression 
+---
+# Cycle1
 ---
 
+## Daily Progress
+
+| Day | Task Summary |
+|-----|--------------|
+| *Day 6* |Trained Random Forest, AdaBoost, and XGBoost on the Breast Cancer Dataset,performed basic error analysis using classification report  |
+
+---
+## Repository Contents
+
+- Day6.ipynb – Bagging vs Boosting
+
+---
 ## Tools & Libraries Used
 - Python
 - Pandas
 - NumPy
+- XGBoost
 - Scikit-learn
 - Matplotlib / Seaborn (for visualization, where applicable)
 ---
