@@ -32,11 +32,14 @@
 | Day | Task Summary |
 |-----|--------------|
 | *Day 6* |Trained Random Forest, AdaBoost, and XGBoost on the Breast Cancer Dataset,performed basic error analysis using classification report  |
-
+| *Day 7* |Applied SVM classification on the Credit Card dataset using Linear, RBF, and Polynomial kernels. Applied PCA for 2D visualization. Compared models using accuracy.|
+| *Day 8* |Worked on Unsupervising using clustering methods like K-means and hierarchical and applied PCA and t-SNE for visualization .|
 ---
 ## Repository Contents
 
-- Day6.ipynb – Bagging vs Boosting
+- Phase1.ipynb – Bagging vs Boosting
+- Phase2.ipynb - Support Vector Machines (SVM)
+- Phase3.ipynb -  Unsupervised Learning
 
 ---
 ## Tools & Libraries Used
