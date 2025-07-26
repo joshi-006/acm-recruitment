@@ -35,6 +35,8 @@
 | *Day 7* |Applied SVM classification on the Credit Card dataset using Linear, RBF, and Polynomial kernels. Applied PCA for 2D visualization. Compared models using accuracy.|
 | *Day 8* |Worked on Unsupervising using clustering methods like K-means and hierarchical and applied PCA and t-SNE for visualization .|
 | *Day 9* |Used TF-IDF to transform text data and used SVD for dimensionality reduction ,visualized the first two components and applied KMeans clustering and found Silhouette score.|
+| *Day 10* |Applied model validation on the Breast Cancer dataset using Random Forest. Applied K-Fold Cross-Validation to ensure robust performance evaluation. Analyzed the bias-variance trade-off through learning curves, revealing insights into model generalization and potential overfitting/underfitting.|
+| *Main Challenge* | Performed  sentiment analysis on the Sentiment140 dataset to classify tweets into Negative, Neutral, and Positive categories. Performed text cleaning, label mapping, and TF-IDF vectorization for feature extraction. Trained a classification model, evaluated it using accuracy, confusion matrix, and classification report along with a heatmap. |
 ---
 ## Repository Contents
 
@@ -42,6 +44,8 @@
 - Phase2.ipynb - Support Vector Machines (SVM)
 - Phase3.ipynb -  Unsupervised Learning
 - Phase4.ipynb -  SVD + PCA
+- Phase5.ipynb - Model Validation & Selection
+- MainChallenge - Tweet Sentiment Analysis
 
 ---
 ## Tools & Libraries Used
